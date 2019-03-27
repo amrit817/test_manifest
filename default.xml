@@ -1,8 +1,6 @@
 <manifest>
 	<remote	name="myrepo"
 		fetch="https://github.com/ntneitin/"/>
-	<default	revision="ref/head/master"
-			remote="myrepo"/>
 	<project	name="test"
 			path="test"/>
 </manifest>

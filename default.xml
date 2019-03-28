@@ -5,4 +5,6 @@
 		remote="myrepo"/>
 	<project	name="test"
 			path="test"/>
+	<project	name="hw"
+			path="hw"/>
 </manifest>

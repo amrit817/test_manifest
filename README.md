@@ -1,2 +1,3 @@
-# test_manifest
-testing project manifest
+# test_amrit
+
+test for amrit. github inc. 
